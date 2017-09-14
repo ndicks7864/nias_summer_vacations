@@ -1,0 +1,46 @@
+body {
+      background-color: #a8c9ff;
+}
+
+h1 {
+    color: #edf1f7;
+    font-size: 70px;
+    font-family:'Patrick Hand SC', cursive;
+    text-align: center;
+}
+
+h2 {
+    color: #6390d8;
+    font-size: 35px;
+    font-family:'Patrick Hand SC', cursive;
+
+}
+
+h3 {
+    font-size: 15px;
+}
+
+p {
+   font-family: 'Raleway', sans-serif;
+   font-size: 16px;
+}
+
+img {
+     max-width:100%;
+}
+
+a:link {
+    color: #56f6ff;
+}
+
+a:visited {
+    color: #f44444;
+}
+
+a:hover {
+    color: #9956ff;
+}
+
+a:active {
+    color: #04204c;
+}
